@@ -14,6 +14,9 @@
   "author": "Darshan Rajput",
   "license": "ISC",
   "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "eslint": "^9.15.0",
+    "globals": "^15.12.0",
     "nodemon": "^3.1.7",
     "prettier": "^3.3.3"
   },
